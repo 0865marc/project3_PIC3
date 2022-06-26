@@ -1,0 +1,548 @@
+{
+    "Printer 100": [
+        {
+            "printer_id": 100,
+            "date": "01/05/2022",
+            "time": "17:30:47",
+            "temperature": 38,
+            "humidity": 28,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 100,
+            "date": "01/05/2022",
+            "time": "17:30:27",
+            "temperature": 35,
+            "humidity": 28,
+            "status": "Active"
+        },
+        {
+            "printer_id": 100,
+            "date": "01/05/2022",
+            "time": "17:30:07",
+            "temperature": 24,
+            "humidity": 12,
+            "status": "Active"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:59:55",
+            "temperature": 28,
+            "humidity": 87,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:59:35",
+            "temperature": 38,
+            "humidity": 92,
+            "status": "Active"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:59:15",
+            "temperature": 31,
+            "humidity": 19,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:58:55",
+            "temperature": 32,
+            "humidity": 89,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:58:35",
+            "temperature": 27,
+            "humidity": 59,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:58:15",
+            "temperature": 24,
+            "humidity": 23,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 100,
+            "date": "30/04/2022",
+            "time": "19:57:55",
+            "temperature": 40,
+            "humidity": 16,
+            "status": "Sleeping"
+        }
+    ],
+    "Printer 101": [
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:59:55",
+            "temperature": 25,
+            "humidity": 44,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:59:35",
+            "temperature": 29,
+            "humidity": 84,
+            "status": "Active"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:59:15",
+            "temperature": 25,
+            "humidity": 14,
+            "status": "Active"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:58:55",
+            "temperature": 24,
+            "humidity": 69,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:58:35",
+            "temperature": 32,
+            "humidity": 43,
+            "status": "Active"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:58:15",
+            "temperature": 30,
+            "humidity": 99,
+            "status": "Active"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:57:55",
+            "temperature": 28,
+            "humidity": 82,
+            "status": "Active"
+        },
+        {
+            "printer_id": 101,
+            "date": "30/04/2022",
+            "time": "19:57:35",
+            "temperature": 39,
+            "humidity": 41,
+            "status": "Sleeping"
+        }
+    ],
+    "Printer 102": [
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:59:55",
+            "temperature": 30,
+            "humidity": 40,
+            "status": "Active"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:59:35",
+            "temperature": 37,
+            "humidity": 35,
+            "status": "Active"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:59:15",
+            "temperature": 21,
+            "humidity": 62,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:58:55",
+            "temperature": 28,
+            "humidity": 8,
+            "status": "Active"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:58:35",
+            "temperature": 23,
+            "humidity": 55,
+            "status": "Active"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:58:15",
+            "temperature": 30,
+            "humidity": 9,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:57:55",
+            "temperature": 39,
+            "humidity": 33,
+            "status": "Active"
+        },
+        {
+            "printer_id": 102,
+            "date": "30/04/2022",
+            "time": "19:57:35",
+            "temperature": 21,
+            "humidity": 65,
+            "status": "Active"
+        }
+    ],
+    "Printer 103": [
+        {
+            "printer_id": 103,
+            "date": "01/05/2022",
+            "time": "17:30:47",
+            "temperature": 23,
+            "humidity": 79,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 103,
+            "date": "01/05/2022",
+            "time": "17:30:27",
+            "temperature": 35,
+            "humidity": 17,
+            "status": "Active"
+        },
+        {
+            "printer_id": 103,
+            "date": "01/05/2022",
+            "time": "17:30:07",
+            "temperature": 38,
+            "humidity": 14,
+            "status": "Active"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:59:55",
+            "temperature": 24,
+            "humidity": 48,
+            "status": "Active"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:59:35",
+            "temperature": 37,
+            "humidity": 97,
+            "status": "Active"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:59:15",
+            "temperature": 32,
+            "humidity": 71,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:58:55",
+            "temperature": 29,
+            "humidity": 37,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:58:35",
+            "temperature": 31,
+            "humidity": 56,
+            "status": "Active"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:58:15",
+            "temperature": 27,
+            "humidity": 41,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 103,
+            "date": "30/04/2022",
+            "time": "19:57:55",
+            "temperature": 33,
+            "humidity": 58,
+            "status": "Sleeping"
+        }
+    ],
+    "Printer 23": [
+        {
+            "printer_id": 23,
+            "date": "01/05/2022",
+            "time": "17:30:47",
+            "temperature": 26,
+            "humidity": 48,
+            "status": "Active"
+        },
+        {
+            "printer_id": 23,
+            "date": "01/05/2022",
+            "time": "17:30:27",
+            "temperature": 39,
+            "humidity": 47,
+            "status": "Active"
+        },
+        {
+            "printer_id": 23,
+            "date": "01/05/2022",
+            "time": "17:30:07",
+            "temperature": 21,
+            "humidity": 34,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 23,
+            "date": "01/05/2022",
+            "time": "11:29:01",
+            "temperature": 37,
+            "humidity": 92,
+            "status": "Active"
+        },
+        {
+            "printer_id": 23,
+            "date": "01/05/2022",
+            "time": "11:28:41",
+            "temperature": 40,
+            "humidity": 71,
+            "status": "Sleeping"
+        }
+    ],
+    "Printer 10": [
+        {
+            "printer_id": 10,
+            "date": "01/05/2022",
+            "time": "11:29:01",
+            "temperature": 38,
+            "humidity": 75,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 10,
+            "date": "01/05/2022",
+            "time": "11:28:41",
+            "temperature": 38,
+            "humidity": 47,
+            "status": "Sleeping"
+        }
+    ],
+    "Printer 6": [
+        {
+            "printer_id": 6,
+            "date": "24/06/2022",
+            "time": "20:58:29",
+            "temperature": 32,
+            "humidity": 93,
+            "status": "Active"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:59:31",
+            "temperature": 38,
+            "humidity": 74,
+            "status": "Active"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:59:11",
+            "temperature": 30,
+            "humidity": 94,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:58:51",
+            "temperature": 35,
+            "humidity": 79,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:58:31",
+            "temperature": 26,
+            "humidity": 65,
+            "status": "Active"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:58:11",
+            "temperature": 40,
+            "humidity": 51,
+            "status": "Active"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:57:51",
+            "temperature": 26,
+            "humidity": 37,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:57:31",
+            "temperature": 34,
+            "humidity": 20,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:57:11",
+            "temperature": 39,
+            "humidity": 57,
+            "status": "Active"
+        },
+        {
+            "printer_id": 6,
+            "date": "01/05/2022",
+            "time": "12:56:51",
+            "temperature": 27,
+            "humidity": 24,
+            "status": "Active"
+        }
+    ],
+    "Printer 8": [
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:19:12",
+            "temperature": 33,
+            "humidity": 27,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:18:52",
+            "temperature": 36,
+            "humidity": 6,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:18:31",
+            "temperature": 38,
+            "humidity": 66,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:18:11",
+            "temperature": 40,
+            "humidity": 20,
+            "status": "Active"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:17:51",
+            "temperature": 22,
+            "humidity": 92,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:17:31",
+            "temperature": 23,
+            "humidity": 18,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:17:11",
+            "temperature": 35,
+            "humidity": 39,
+            "status": "Active"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:16:51",
+            "temperature": 35,
+            "humidity": 96,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:16:31",
+            "temperature": 26,
+            "humidity": 64,
+            "status": "Active"
+        },
+        {
+            "printer_id": 8,
+            "date": "01/05/2022",
+            "time": "18:16:11",
+            "temperature": 31,
+            "humidity": 66,
+            "status": "Sleeping"
+        }
+    ],
+    "Printer 1": [
+        {
+            "printer_id": 1,
+            "date": "24/06/2022",
+            "time": "21:03:49",
+            "temperature": 29,
+            "humidity": 14,
+            "status": "Sleeping"
+        },
+        {
+            "printer_id": 1,
+            "date": "24/06/2022",
+            "time": "21:00:00",
+            "temperature": 21,
+            "humidity": 74,
+            "status": "Active"
+        },
+        {
+            "printer_id": 1,
+            "date": "24/06/2022",
+            "time": "20:52:10",
+            "temperature": 20,
+            "humidity": 4,
+            "status": "Sleeping"
+        }
+    ]
+}
