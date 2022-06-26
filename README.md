@@ -1,4 +1,4 @@
-# Project 2 - Programming and comunication III
+# Project 3 - Programming and comunication III
 
 In this task, i developed a simple Web Application to be able to monitor a 3D printer farm using FastAPI.
 
