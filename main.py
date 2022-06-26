@@ -55,8 +55,10 @@ class Item(BaseModel):
 
 @app.post(path = "/post_printer_log")
 async def create_item(item:Item):
-    print("Recieved log:", item)
+
     item = dict(item)
+
+    # Reconstruct printer_log object and add it to the db
     recieved_log = Printer_log(
         printer_id = item["printer_id"],
         date = item["date"],
